@@ -1,7 +1,6 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
   content: MyString
   date: 2019-03-03
   period_of_day: MyString
@@ -13,7 +12,6 @@ one:
   user: one
 
 two:
-  title: MyString
   content: MyString
   date: 2019-03-03
   period_of_day: MyString
